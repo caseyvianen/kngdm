@@ -1,8 +1,8 @@
 {
-  "name": "shop",
+  "name": "KNGDM.",
   "version": "1.1.2",
   "authors": [
-    "The Polymer Authors"
+    "Casey Vianen"
   ],
   "private": true,
   "dependencies": {
